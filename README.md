@@ -1,2 +1,2 @@
 # SCIP-Draw
-SCIP Drew-picture
+SCIP Draw picture
